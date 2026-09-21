@@ -22,7 +22,8 @@ Cross-sectional view of the full security universe, including risk vs. return, r
 
 ![Market & Risk Overview](assets/market-risk-overview.png)
 
-> **Tableau Public:** Add your published dashboard URL here: `[View the interactive dashboard](PASTE_TABLEAU_PUBLIC_URL_HERE)`
+> **Tableau Public:**
+> [View the interactive dashboard](https://public.tableau.com/app/profile/christian.alexander.castillo.solorzano6946/viz/TradingDashboard_17899727510140/02-MarketRiskOverview)
 
 ---
 
