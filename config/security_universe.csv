@@ -1,0 +1,26 @@
+Symbol,ExchangeCode,Sector
+AAPL,NASDAQ,Information Technology
+MSFT,NASDAQ,Information Technology
+NVDA,NASDAQ,Information Technology
+JPM,NYSE,Financials
+BAC,NYSE,Financials
+GS,NYSE,Financials
+KO,NYSE,Consumer Staples
+PG,NYSE,Consumer Staples
+WMT,NASDAQ,Consumer Staples
+AMZN,NASDAQ,Consumer Discretionary
+HD,NYSE,Consumer Discretionary
+MCD,NYSE,Consumer Discretionary
+JNJ,NYSE,Health Care
+UNH,NYSE,Health Care
+PFE,NYSE,Health Care
+CAT,NYSE,Industrials
+HON,NASDAQ,Industrials
+UPS,NYSE,Industrials
+XOM,NYSE,Energy
+CVX,NYSE,Energy
+COP,NYSE,Energy
+GOOGL,NASDAQ,Communication Services
+META,NASDAQ,Communication Services
+DIS,NYSE,Communication Services
+SPY,NYSE,
